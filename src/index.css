@@ -1,0 +1,40 @@
+.App {
+  display: flex;
+  justify-content: center;
+  margin: 5px 10px;
+}
+
+.container {
+  margin: 4px 4px;
+}
+
+.userInfo {
+  display: inline-block;
+  float: right;
+}
+
+.mainContainer {
+  background-color: rgba(250, 250, 250, 0.9);
+
+  
+  width: 800px;
+  margin: 0 auto;
+}
+
+.input {
+  height: 20px;
+}
+
+.buttonAddUser {
+  height: 34px;
+}
+
+.allContent {
+  background-image: url(/Wood-Background.jpg);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.autorisation {
+  height: 40px;
+}
