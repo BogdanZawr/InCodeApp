@@ -20,8 +20,8 @@ class Signup extends React.Component {
                 <div className="ui right labeled input">
                     <input type="text" id='email' placeholder="Your Email" />
                     <input type="text" id='password' placeholder="Your Password" />
-                    <Button secondary>Sign up</Button>
                 </div>
+                <Button secondary>Sign up</Button>
             </form>
         );
     }
